@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">map1</string>
+    <string name="access_token" />
+</resources>
